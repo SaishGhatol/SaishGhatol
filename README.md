@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Full Stcak Developer
+# 👋 Hi there, I'm Saish Ghatol
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;TypeScript+Enthusiast;React+%2B+Node.js+Developer;Always+learning+new+technologies" alt="Typing SVG" />
