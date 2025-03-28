@@ -44,13 +44,6 @@ I'm a passionate Full Stack Developer who loves building seamless web applicatio
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Featured Projects
 
 ### [RealTime Chat Application](https://github.com/yourusername/project-link)
@@ -88,12 +81,6 @@ A productivity application for managing tasks, projects, and team collaboration.
 - Team collaboration tools
 - Priority and deadline tracking
 - Data visualization with charts
-
-## 📈 My Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ## 🎯 Current Focus
 
