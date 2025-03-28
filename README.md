@@ -94,5 +94,5 @@ I'm currently enhancing my skills in:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SaishGhatol&color=blueviolet" alt="Profile Views" />
 </div>
