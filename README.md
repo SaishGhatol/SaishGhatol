@@ -70,7 +70,7 @@ I'm a passionate Full Stack Developer with expertise in modern web applications,
 
 ## 🏆 Featured Projects
 
-### [StudyNotion EdTech Platform](https://saishghatol.me)
+### [StudyNotion EdTech Platform](https://quiz)
 A comprehensive full-stack EdTech platform providing seamless learning experience for students and instructors.
 
 **Technologies:** React, Node.js, MongoDB, Nodemailer
@@ -97,7 +97,7 @@ A specialized healthcare AI assistant powered by Google Gemini API for medical q
 - Secure patient data handling
 - Healthcare-focused user interface
 
-### [Real-Time Chat Application](https://github.com/SaishGhatol/chat-app)
+### [Real-Time Chat Application](https://github.com/SaishGhatol/chatApp)
 A feature-rich messaging platform with real-time communication capabilities using microservices architecture.
 
 **Technologies:** React, Node.js, Socket.IO, Express
@@ -156,7 +156,7 @@ Currently working on:
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=saishghatol&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=saish-ghatol&theme=dark" alt="LeetCode Stats" />
 </div>
 
 ---
