@@ -164,7 +164,7 @@ Currently working on:
 ---
 
 <div align="center">
-  <img src=https://komarev.com/ghpvc/?username=SaishGhatol&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SaishGhatol&color=blueviolet" alt="Profile Views" />
   
   **💼 Open for opportunities in Full Stack Development**
   
