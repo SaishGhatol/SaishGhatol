@@ -163,7 +163,7 @@ Currently working on:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaishGhatol&color=blueviolet" alt="Profile Views" />
+  <img src="https://leetcode-badge.vercel.app/api/saishghatol?theme=dark" alt="Profile Views" />
   
   **💼 Open for opportunities in Full Stack Development**
   
