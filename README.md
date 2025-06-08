@@ -156,7 +156,7 @@ Currently working on:
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/saish-ghatol?theme=dark&font=baloo&extension=activity
+  <img src="https://leetcode.card.workers.dev/saishghatol?theme=dark&font=baloo&extension=activity
 " alt="LeetCode Stats" />
 </div>
 
