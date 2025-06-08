@@ -155,15 +155,16 @@ Currently working on:
 
 ## 📈 Coding Activity
 
-<div align="center">
-  <img src="https://leetcode.card.workers.dev/saishghatol?theme=dark&font=baloo&extension=activity
-" alt="LeetCode Stats" />
+
+  <div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Problems"/>
+  <img src="https://img.shields.io/badge/SQL-100%2B%20Problems-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Problems"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://leetcode-badge.vercel.app/api/saishghatol?theme=dark" alt="Profile Views" />
+  <img src=https://komarev.com/ghpvc/?username=SaishGhatol&color=blueviolet" alt="Profile Views" />
   
   **💼 Open for opportunities in Full Stack Development**
   
