@@ -70,7 +70,7 @@ I'm a passionate Full Stack Developer with expertise in modern web applications,
 
 ## 🏆 Featured Projects
 
-### [StudyNotion EdTech Platform](https://quiz)
+### [StudyNotion EdTech Platform](https://github.com/SaishGhatol/stuynotion)
 A comprehensive full-stack EdTech platform providing seamless learning experience for students and instructors.
 
 **Technologies:** React, Node.js, MongoDB, Nodemailer
